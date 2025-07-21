@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "name": "armdevstack/validator",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArmDevStack\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Narek",
+            "email": "vardapetyannarek0@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
